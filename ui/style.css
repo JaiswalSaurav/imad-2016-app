@@ -130,7 +130,7 @@ h2{
 	height:490px;
 }
 footer{
-	background:url(../Background/footer.jpg) no-repeat;
+	background:url(/ui/footer.jpg) no-repeat;
 	width:1000px;
 	height:120px;
     padding: 3em 0 2em 0;
